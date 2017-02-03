@@ -11,10 +11,10 @@ Luke amidala hutt watto jinn. Tatooine dantooine darth mara skywalker. Ventress 
 [Section 2 relative/index](section2/index.md)
 
 
-[Section 1 root](doc/section/)
+[Section 1 root](/doc/section/)
 
-[Section 1 root/index](doc/section/index.md)
+[Section 1 root/index](/doc/section/index.md)
 
-[Section 2 root](doc/section2/)
+[Section 2 root](/doc/section2/)
 
-[Section 2 root/index](doc/section2/index.md)
+[Section 2 root/index](/doc/section2/index.md)
